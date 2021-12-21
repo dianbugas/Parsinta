@@ -11,6 +11,9 @@ import {
 //   return { title: "New Remix App" };
 // }
 
+import globalStylesUrl from "~/styles/app.css";
+import darkStylesUrl from "~/styles/dark.css";
+
 
 export default function App() {
   return (
