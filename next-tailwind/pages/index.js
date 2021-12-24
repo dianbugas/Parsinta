@@ -16,7 +16,7 @@ export default function Home() {
         <section className="px-4 py-2.5">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, assumenda? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae, repudiandae accusantium id soluta nulla veniam molestias. Nemo molestiae illo sunt.
         </section>
-        <footer className="px-4 py-2.5 border-t text-gray-500 bg-gray-50/50">Lorem ipsum dolor sit amet consectetur adipisicing elit.</footer>
+        <footer className="px-4 py-2.5 border-t text-gray-500 bg-gray-50/50">Lorem ipsum dolor sit amet consectetur tes adipisicing elit.</footer>
       </div>
     </div>
   )
