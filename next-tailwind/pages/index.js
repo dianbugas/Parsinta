@@ -1,5 +1,4 @@
 import React from 'react'
-
 export default function Home() {
   return (
     <div className="max-w-xl">
@@ -17,6 +16,9 @@ export default function Home() {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, assumenda? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae, repudiandae accusantium id soluta nulla veniam molestias. Nemo molestiae illo sunt.
         </section>
         <footer className="px-4 py-2.5 border-t text-gray-500 bg-gray-50/50">Lorem ipsum dolor sit amet consectetur tes adipisicing elit.</footer>
+      </div>
+      <div>
+        <button className="px-6 py-2.5 text-sm font-medium transition duration-300 focus:ring focus:ring-blue-200 text-center text-white bg-blue-600 rounded hover:bg-blue-700">Primary</button>
       </div>
     </div>
   )
